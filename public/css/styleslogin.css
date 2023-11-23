@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+bodu{
+    text-align: center;
+}
+
 main {
     text-align: center;
     font-family: 'Roboto', sans-serif;
